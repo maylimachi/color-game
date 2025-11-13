@@ -46,7 +46,7 @@ Este proyecto me permitió mejorar mis habilidades en:
 
 ## 🌐 Demo
 
-👉 [Jugar Color Game](https://maylimachi.github.io/color-game/)  
+🎮 [Jugar Color Game](https://color-game-seven-dun.vercel.app/)
 
 ---
 
@@ -55,6 +55,7 @@ Este proyecto me permitió mejorar mis habilidades en:
 ![Vista previa del juego](https://via.placeholder.com/800x400?text=Color+Game+Preview)
 
 ---
+
 
 ## 🧑‍💻 Autora
 
