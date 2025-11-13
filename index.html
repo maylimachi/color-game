@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="style.css">
+        <link rel="icon" href="img/colores.png" type="image/png">
+        <title>Color Game</title>
+    </head>
+
+    <body>
+        <h1 id="title">
+             The Great
+             <br>
+             <span id="colorDisplay">rgb()</span>
+             <br>Guessing Game
+        </h1>
+
+        <div id="stripe">
+            <button id="hard" class="selectedHard boton">HARD</button>
+            <button id="easy" class="boton">EASY</button>
+        </div>
+
+        <div class="container"> 
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+
+        <div id="resetContainer">
+            <span id="message"></span>
+            <button id="reset">Nuevos Colores</button>
+        </div>
+
+        <audio id="winSound" src="song/mixkit-retro-game-notification-212.wav"></audio>
+        <script src="colorgame.js"></script>
+    </body>
+</html>
