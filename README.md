@@ -50,13 +50,6 @@ Este proyecto me permitió mejorar mis habilidades en:
 
 ---
 
-## 📸 Vista previa
-
-![Vista previa del juego](https://via.placeholder.com/800x400?text=Color+Game+Preview)
-
----
-
-
 ## 🧑‍💻 Autora
 
 **Mayra Limachi**  
